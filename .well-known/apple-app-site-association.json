@@ -1,11 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-        {
-          "appID": "CUQ2HX9BLA.com.ultorex.demo",
-          "paths": ["*"]
-        }
-      ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "CUQ2HX9BLA.com.ultorex.demo",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
   }
+}
